@@ -17,7 +17,7 @@
     </p>
     <p align="center">
       <em>
-        Hello, I am Vikram Singh a <b>first year</b> Postgraduate student from <a href="https://uom.lk/"> <b>Chandigarh University</b>, India</a>. <br>
+        Hello, I am Vikram Singh a <b>first year</b> MCA student from <a href="https://uom.lk/"> <b>Chandigarh University</b>, India</a>. <br>
         <b>a passionate self-learner</b> and a <b>Frontend Engineer</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
         with <b>Development</b> and always looking to solve real life problems through coding. 
       </em> 
