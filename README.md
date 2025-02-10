@@ -40,7 +40,7 @@
       <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
       <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
       <hr>
-      <p align="center">
+     <!-- <p align="center">
      <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
     <br><br><br><br><br>
-    <hr>
+    <hr>-->
