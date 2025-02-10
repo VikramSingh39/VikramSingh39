@@ -1,7 +1,7 @@
 <p align="center">
       <img src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" height="200"/>
     </p>
-    <br>
+    <br> 
     <p align="left"> 
      </p>
      <p align="center">
@@ -14,7 +14,7 @@
     <h2 align="center">Fronted Engineer</h2>
     <p align="center">
     </p>
-    </p> 
+    </p>
     <p align="center">
       <em>
         Hello, I am Vikram Singh a <b>first year</b> Postgraduate student from <a href="https://uom.lk/"> <b>Chandigarh University</b>, India</a>. <br>
@@ -26,21 +26,17 @@
     </p>
     <br><br>
     <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-    ✔ Callme: Vikram or ***TeamSprit individual*** 😊 <br>
-    ✔ I’m currently learning about **FullStack Development** 👨🏼‍💻<br>
-    ✔ I’m looking to collaborate with any Backend developer<br>
-    ✔ Ask from me anything you want, If I am alive I will answer definitely 😉<br>
-    ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+    👨‍💻Check out my Projects <a href="https://vikram-saini.netlify.app" target="_blank">Portfolio</a> <br>
+    💬 Callme: Vikram or ***TeamSprit individual <br>
+    🌱 I’m currently learning about **FullStack Development 👨🏼‍💻<br>
+    🚀 I’m looking to collaborate with any Backend developer<br>
+    👋 Ask from me anything you want, If I am alive I will answer definitely 😉<br>
+    😁 Fun fact : I can talk with Computers 😎 <br><br><br><br>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-    <p align="left"> 
+    <p align="left">
       <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
       <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
       <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
       <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
       <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-      <hr>
-     <!-- <p align="center">
-     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-    <br><br><br><br><br>
-    <hr>-->
+   
