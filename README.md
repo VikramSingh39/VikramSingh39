@@ -26,7 +26,7 @@
     </p>
     <br><br>
     <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-    👨‍💻Check out my Projects <a href="https://svikram-singh.netlify.app" target="_blank">Portfolio</a> <br>
+    👨‍💻Check out my Projects <a href="https://svikram.netlify.app" target="_blank">Portfolio</a> <br>
     💬 Callme: Vikram or ***TeamSprit individual <br>
     🌱 I’m currently learning about **FullStack Development 👨🏼‍💻<br>
     🚀 I’m looking to collaborate with any Backend developer<br>
